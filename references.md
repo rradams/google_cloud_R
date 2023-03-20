@@ -2,6 +2,8 @@
 - https://www.youtube.com/watch?v=y6vPAe9Z7QI
 
 <img src="https://user-images.githubusercontent.com/70645899/226013385-7e072ca2-edd0-4b0f-a4dc-3748d1d60e8a.png" width="500">
+<img src="https://user-images.githubusercontent.com/70645899/226464679-1718143e-2848-4cca-9db0-38668e9a2824.png" width="500">
+
 
 ## Big Query
 - https://www.infoworld.com/article/3622926/how-to-use-r-with-bigquery.html
