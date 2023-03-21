@@ -1,23 +1,21 @@
 ## Google Cloud + Data pipeline + ML +Deploy web app
 
-```
-#1 Data pipeline
+### Data pipeline
 Google Cloud provides several tools and services to create data pipelines. You can use Cloud Dataflow with R, 
 which is a fully-managed service for transforming and enriching data in stream and batch modes. To use R with Cloud Dataflow, 
 you can use the 'googleCloudRunner' package, which helps in integrating R scripts with Dataflow.
 
-#2 Data pipeline
+### Machine learning
 You can leverage Google Cloud's AI Platform Notebooks for running R code and developing machine learning models. 
 AI Platform Notebooks support R and can be customized with R packages. You can also access other GCP services such as
 BigQuery, Cloud Storage, and Cloud Pub/Sub from your R code running in the AI Platform Notebooks.
 
-#3 Web Application
+### Web Application
 To create a web application that allows you to change variables for machine learning, 
 you can build a front-end using React and create a RESTful API with R using the Plumber package.
 React is a popular JavaScript library for building user interfaces, while Plumber allows you to create APIs with R.
 Once your RESTful API is ready, you can deploy it on Google Cloud using Cloud Run or App Engine.
 For your React application, you can deploy it using Google Cloud's Firebase Hosting or App Engine.
-```
 
 
 ## Google cloud + R studio
