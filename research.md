@@ -3,6 +3,8 @@
 ### Data pipeline
 Google Cloud provides several tools and services to create data pipelines. You can use Cloud Dataflow with R, which is a fully-managed service for transforming and enriching data in stream and batch modes. To use R with Cloud Dataflow, you can use the 'googleCloudRunner' package, which helps in integrating R scripts with Dataflow.
 
+- https://www.youtube.com/watch?v=RrYrMsoIXsw&t=131s
+
 ### Machine learning
 You can leverage Google Cloud's AI Platform Notebooks for running R code and developing machine learning models. AI Platform Notebooks support R and can be customized with R packages. You can also access other GCP services such as BigQuery, Cloud Storage, and Cloud Pub/Sub from your R code running in the AI Platform Notebooks.
 
