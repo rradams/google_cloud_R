@@ -93,7 +93,8 @@ https://cloud.google.com/run/docs/quickstarts
 ## 5) Trigger the R script in the Cloud Run container
 
 ```
-To trigger the R script in the Cloud Run container after uploading the GeoJSON file to Firebase Storage, you can use Firebase Cloud Functions to listen for changes in Firebase Storage and make an HTTP request to your Cloud Run service.
+To trigger the R script in the Cloud Run container after uploading the GeoJSON file to Firebase Storage, 
+you can use Firebase Cloud Functions to listen for changes in Firebase Storage and make an HTTP request to your Cloud Run service.
 Follow the official guide to set up Cloud Functions for Firebase, and then create a function like this
 ```
 
