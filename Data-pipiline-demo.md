@@ -1,9 +1,9 @@
 # Demo Project Description
 
 We've developed a React-based web application that includes a map with a map-click handler allowing users to create points with latitude and longitude data. 
-My goal is to enable users to save these points as GeoJSON data in Firebase storage when they click the send button on the web app. 
-To achieve this, I plan to run an R script using Firebase's Cloud Run and Docker capabilities. 
-After running the script, I intend to save the results back to Firebase storage. Finally, I want to display the resulting data on the web app as text.
+Our goal is to enable users to save these points as GeoJSON data in Firebase storage when they click the send button on the web app. 
+To achieve this, We plan to run an R script using Firebase's Cloud Run and Docker capabilities. 
+After running the script, We intend to save the results back to Firebase storage. Finally, We want to display the resulting data on the web app as text.
 
 <img src="https://user-images.githubusercontent.com/70645899/231495933-803aa787-3fe8-4a8f-b8de-d141b9db107e.jpg" width="500">
 
